@@ -1,0 +1,268 @@
+{
+    "frames": [
+        {
+            "filename": "boton-grande",
+            "frame": {
+                "w": 454,
+                "h": 100,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-grande-disable",
+            "frame": {
+                "w": 454,
+                "h": 100,
+                "x": 0,
+                "y": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "full-screen",
+            "frame": {
+                "w": 72,
+                "h": 72,
+                "x": 0,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-anterior",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 72,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-siguiente",
+            "frame": {
+                "w": 68,
+                "h": 68,
+                "x": 140,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "configuracion",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 208,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "home",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 264,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "home-disable",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 320,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "informacion",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 376,
+                "y": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "menu",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 0,
+                "y": 272
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "menu-disable",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 56,
+                "y": 272
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-efectos-off",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 112,
+                "y": 268
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-off",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 168,
+                "y": 268
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-efectos-on",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 224,
+                "y": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "musica-on",
+            "frame": {
+                "w": 56,
+                "h": 56,
+                "x": 280,
+                "y": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-menos-disable",
+            "frame": {
+                "w": 54,
+                "h": 54,
+                "x": 336,
+                "y": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boton-cerrar",
+            "frame": {
+                "w": 54,
+                "h": 54,
+                "x": 390,
+                "y": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-mas",
+            "frame": {
+                "w": 54,
+                "h": 54,
+                "x": 0,
+                "y": 328
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-mas-disable",
+            "frame": {
+                "w": 54,
+                "h": 54,
+                "x": 54,
+                "y": 328
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "seleccion-circular-menos",
+            "frame": {
+                "w": 54,
+                "h": 54,
+                "x": 108,
+                "y": 328
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

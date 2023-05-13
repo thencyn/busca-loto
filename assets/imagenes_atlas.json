@@ -1,0 +1,151 @@
+{
+    "frames": [
+        {
+            "filename": "valor-apuesta",
+            "frame": {
+                "w": 801,
+                "h": 170,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "cuadro-premio",
+            "frame": {
+                "w": 353,
+                "h": 494,
+                "x": 0,
+                "y": 170
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "logo-juego",
+            "frame": {
+                "w": 340,
+                "h": 213,
+                "x": 353,
+                "y": 170
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "saldo",
+            "frame": {
+                "w": 309,
+                "h": 70,
+                "x": 353,
+                "y": 383
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tiempo",
+            "frame": {
+                "w": 307,
+                "h": 70,
+                "x": 353,
+                "y": 453
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "burbuja",
+            "frame": {
+                "w": 215,
+                "h": 220,
+                "x": 0,
+                "y": 664
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "estrella",
+            "frame": {
+                "w": 180,
+                "h": 180,
+                "x": 215,
+                "y": 664
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "logo-polla",
+            "frame": {
+                "w": 180,
+                "h": 180,
+                "x": 395,
+                "y": 523
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "polla",
+            "frame": {
+                "w": 168,
+                "h": 49,
+                "x": 575,
+                "y": 523
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fuego-amarillo",
+            "frame": {
+                "w": 128,
+                "h": 128,
+                "x": 662,
+                "y": 383
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "rain",
+            "frame": {
+                "w": 17,
+                "h": 17,
+                "x": 215,
+                "y": 844
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

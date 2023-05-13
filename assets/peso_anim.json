@@ -1,0 +1,80 @@
+{
+    "anims": [
+        {
+            "key": "peso-girar",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-01"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-02"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-03"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-04"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-05"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-06"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-07"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-08"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-09"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-10"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-11"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-12"
+                }
+            ]
+        },
+        {
+            "key": "peso-crecer",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-crecer-01"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-crecer-02"
+                },
+                {
+                    "key": "AtlasPeso",
+                    "frame": "peso-crecer-03"
+                }
+            ]
+        }
+    ]
+}
