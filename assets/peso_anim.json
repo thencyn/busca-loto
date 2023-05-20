@@ -60,7 +60,7 @@
             "key": "peso-crecer",
             "type": "frames",
             "repeat": 0,
-            "frameRate": 4,
+            "frameRate": 16,
             "frames": [
                 {
                     "key": "AtlasPeso",
