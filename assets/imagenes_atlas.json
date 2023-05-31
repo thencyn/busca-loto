@@ -1,216 +1,377 @@
 {
-    "frames": [
-        {
-            "filename": "cuadro-premio",
-            "frame": {
-                "w": 168,
-                "h": 848,
-                "x": 0,
-                "y": 0
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "valor-apuesta",
-            "frame": {
-                "w": 668,
-                "h": 164,
-                "x": 168,
-                "y": 0
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "nube-01",
-            "frame": {
-                "w": 400,
-                "h": 192,
-                "x": 168,
-                "y": 164
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "nube-02",
-            "frame": {
-                "w": 400,
-                "h": 192,
-                "x": 168,
-                "y": 356
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "logo-juego",
-            "frame": {
-                "w": 340,
-                "h": 213,
-                "x": 168,
-                "y": 548
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "saldo",
-            "frame": {
-                "w": 309,
-                "h": 70,
-                "x": 168,
-                "y": 761
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "tiempo",
-            "frame": {
-                "w": 307,
-                "h": 70,
-                "x": 477,
-                "y": 761
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "burbuja",
-            "frame": {
-                "w": 215,
-                "h": 220,
-                "x": 568,
-                "y": 164
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "estrella",
-            "frame": {
-                "w": 180,
-                "h": 180,
-                "x": 508,
-                "y": 548
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "logo-polla",
-            "frame": {
-                "w": 180,
-                "h": 180,
-                "x": 836,
-                "y": 0
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "polla",
-            "frame": {
-                "w": 168,
-                "h": 49,
-                "x": 784,
-                "y": 180
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "fondo-bola-vacia",
-            "frame": {
-                "w": 136,
-                "h": 136,
-                "x": 568,
-                "y": 384
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "fuego-amarillo",
-            "frame": {
-                "w": 128,
-                "h": 128,
-                "x": 784,
-                "y": 229
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "linea-premio",
-            "frame": {
-                "w": 54,
-                "h": 6,
-                "x": 952,
-                "y": 180
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "linea-premio-disabled",
-            "frame": {
-                "w": 54,
-                "h": 6,
-                "x": 952,
-                "y": 186
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        },
-        {
-            "filename": "rain",
-            "frame": {
-                "w": 17,
-                "h": 17,
-                "x": 168,
-                "y": 831
-            },
-            "anchor": {
-                "x": 0.5,
-                "y": 0.5
-            }
-        }
-    ],
-    "meta": {
-        "description": "Atlas generado con Atlas Packer Gamma V2",
-        "web": "https://gammafp.github.io/atlas-packer-phaser/"
-    }
+	"textures": [
+		{
+			"image": "imagenes",
+			"format": "RGBA8888",
+			"size": {
+				"w": 840,
+				"h": 850
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cuadro-premio",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 848
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 848
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 168,
+						"h": 848
+					}
+				},
+				{
+					"filename": "valor-apuesta",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 668,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 668,
+						"h": 164
+					},
+					"frame": {
+						"x": 171,
+						"y": 1,
+						"w": 668,
+						"h": 164
+					}
+				},
+				{
+					"filename": "logo-juego",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 340,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 340,
+						"h": 213
+					},
+					"frame": {
+						"x": 171,
+						"y": 167,
+						"w": 340,
+						"h": 213
+					}
+				},
+				{
+					"filename": "nube-02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 20,
+						"w": 349,
+						"h": 172
+					},
+					"frame": {
+						"x": 171,
+						"y": 382,
+						"w": 349,
+						"h": 172
+					}
+				},
+				{
+					"filename": "nube-01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 166
+					},
+					"frame": {
+						"x": 171,
+						"y": 556,
+						"w": 325,
+						"h": 166
+					}
+				},
+				{
+					"filename": "saldo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 309,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 309,
+						"h": 70
+					},
+					"frame": {
+						"x": 513,
+						"y": 167,
+						"w": 309,
+						"h": 70
+					}
+				},
+				{
+					"filename": "tiempo",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 307,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 307,
+						"h": 70
+					},
+					"frame": {
+						"x": 171,
+						"y": 724,
+						"w": 307,
+						"h": 70
+					}
+				},
+				{
+					"filename": "burbuja",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 220
+					},
+					"frame": {
+						"x": 522,
+						"y": 239,
+						"w": 215,
+						"h": 220
+					}
+				},
+				{
+					"filename": "estrella",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 180,
+						"h": 180
+					},
+					"frame": {
+						"x": 522,
+						"y": 461,
+						"w": 180,
+						"h": 180
+					}
+				},
+				{
+					"filename": "logo-polla",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 180,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 180,
+						"h": 178
+					},
+					"frame": {
+						"x": 498,
+						"y": 643,
+						"w": 180,
+						"h": 178
+					}
+				},
+				{
+					"filename": "polla",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 49
+					},
+					"frame": {
+						"x": 171,
+						"y": 796,
+						"w": 168,
+						"h": 49
+					}
+				},
+				{
+					"filename": "fuego-amarillo",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 127,
+						"h": 128
+					},
+					"frame": {
+						"x": 704,
+						"y": 461,
+						"w": 127,
+						"h": 128
+					}
+				},
+				{
+					"filename": "fondo-bola-vacia",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 136
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 136
+					},
+					"frame": {
+						"x": 680,
+						"y": 643,
+						"w": 136,
+						"h": 136
+					}
+				},
+				{
+					"filename": "mano",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 95,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 75
+					},
+					"frame": {
+						"x": 739,
+						"y": 239,
+						"w": 95,
+						"h": 75
+					}
+				},
+				{
+					"filename": "linea-premio-disabled",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 6
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 6
+					},
+					"frame": {
+						"x": 341,
+						"y": 796,
+						"w": 54,
+						"h": 6
+					}
+				},
+				{
+					"filename": "linea-premio",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 6
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 6
+					},
+					"frame": {
+						"x": 680,
+						"y": 781,
+						"w": 54,
+						"h": 6
+					}
+				},
+				{
+					"filename": "rain",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 17,
+						"h": 17
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 14,
+						"h": 14
+					},
+					"frame": {
+						"x": 480,
+						"y": 724,
+						"w": 14,
+						"h": 14
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c197ca54fe438997013aab2022986da6:63cc62d52781cbc67695115dedfd41ba:b0aaf1d83b249379127b77b595bb46e3$"
+	}
 }
